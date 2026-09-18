@@ -1,1 +1,1 @@
-# Mini_Cricket_App
+cricket_app_mini_project
